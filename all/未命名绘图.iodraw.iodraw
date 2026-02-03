@@ -11,7 +11,7 @@
           <mxGeometry x="20" y="257" width="1332" height="221" as="geometry" />
         </mxCell>
         <mxCell id="gAgHCTE2pVDaBenhsq27-3" value="存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="722" y="277" width="604" height="181" as="geometry" />
+          <mxGeometry x="710" y="277" width="604" height="181" as="geometry" />
         </mxCell>
         <mxCell id="gAgHCTE2pVDaBenhsq27-4" value="曲线库数据集 D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="355" width="171" height="49" as="geometry" />
